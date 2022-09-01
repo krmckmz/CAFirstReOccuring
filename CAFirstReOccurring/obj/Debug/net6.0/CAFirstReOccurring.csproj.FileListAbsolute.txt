@@ -1,0 +1,15 @@
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\bin\Debug\net6.0\CAFirstReOccurring.exe
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\bin\Debug\net6.0\CAFirstReOccurring.deps.json
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\bin\Debug\net6.0\CAFirstReOccurring.runtimeconfig.json
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\bin\Debug\net6.0\CAFirstReOccurring.dll
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\bin\Debug\net6.0\CAFirstReOccurring.pdb
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.csproj.AssemblyReference.cache
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.AssemblyInfoInputs.cache
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.AssemblyInfo.cs
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.dll
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\refint\CAFirstReOccurring.dll
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.pdb
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\CAFirstReOccurring.genruntimeconfig.cache
+C:\Users\cagda\Desktop\CAFirstReOccuring\CAFirstReOccurring\obj\Debug\net6.0\ref\CAFirstReOccurring.dll

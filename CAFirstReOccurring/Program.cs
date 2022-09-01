@@ -1,17 +1,22 @@
-﻿
+﻿using System;
 class Program{
 static void Main(string[] args)
 {
-    var result = GetFirstReOccuredString("ABCA");
+    var result = GetFirstReOccuredChar("BCABA");
+    Console.WriteLine(result);
+    Console.ReadLine();
 }
 
-public static string GetFirstReOccuredString(string text)
+public static string GetFirstReOccuredChar(string text)
 {
     Dictionary<char,int> dict = new Dictionary<char,int>();
 
-    for (int i = 0; i < text.Length-1; i++)
+    for (int i = 0; i < text.Length; i++)
     {
-        if(dict[text[i]] > 1)
+        int charCount = default(int);
+        dict.TryGetValue(text[i],out charCount);
+
+        if(dict.ContainsKey(text[i]) && charCount >= 1)
           return text[i].ToString();
         else
            dict.Add(text[i],1);
